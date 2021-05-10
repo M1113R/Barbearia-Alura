@@ -1,0 +1,18 @@
+body {
+    background-color: #CCCCCC;
+}
+
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
+
+h1 {
+    background: #CCCCCC;
+    text-align: center;
+}
+
+em strong {
+    color: #FF0000;
+}
