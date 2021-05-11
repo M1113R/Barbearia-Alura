@@ -2,6 +2,9 @@ body {
     background-color: #CCCCCC;
 }
 
+#banner {
+    width: 100%;
+}
 
 p {
     text-align: center;
@@ -13,8 +16,11 @@ p {
 }
 
 h1 {
-    background: #CCCCCC;
     text-align: center;
+    height: 150px;
+    border: 10px solid #000000;
+    padding-top: 20px;
+    margin: 40px;
 }
 
 em strong {
