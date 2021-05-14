@@ -1,3 +1,7 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
 header {
     background-color: #BBBBBB;
     padding: 20px 0;
@@ -159,6 +163,7 @@ td, th {
     text-align: center;
     font-size: 2em;
     margin: 0 0 1em;
+    clear: left;
 }
 
 .principal p {
@@ -171,4 +176,14 @@ td, th {
 
 .principal em {
     font-style: italic;
+}
+
+.utensilios {
+    width: 150px;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+.imagembeneficios {
+    width: 60%;
 }
